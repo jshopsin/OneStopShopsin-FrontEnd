@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/apprentice/OneStopShop/front_end/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTFrameAnimation.m \
+  /Users/apprentice/OneStopShop/front_end/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTFrameAnimation.h \
+  /Users/apprentice/OneStopShop/front_end/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTAnimationDriver.h \
+  /Users/apprentice/OneStopShop/front_end/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/apprentice/OneStopShop/front_end/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/apprentice/OneStopShop/front_end/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/apprentice/OneStopShop/front_end/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/apprentice/OneStopShop/front_end/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/apprentice/OneStopShop/front_end/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/apprentice/OneStopShop/front_end/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/apprentice/OneStopShop/front_end/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/apprentice/OneStopShop/front_end/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/apprentice/OneStopShop/front_end/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/apprentice/OneStopShop/front_end/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/apprentice/OneStopShop/front_end/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/apprentice/OneStopShop/front_end/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/apprentice/OneStopShop/front_end/node_modules/react-native/Libraries/NativeAnimation/RCTAnimationUtils.h \
+  /Users/apprentice/OneStopShop/front_end/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
+  /Users/apprentice/OneStopShop/front_end/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h
